@@ -44,9 +44,7 @@ A simple tool to calculate future value of your Systematic Investment Plan (SIP)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Shivamirji36&theme=tokyonight)
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Shivamirji36&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamirji36&layout=compact&theme=tokyonight)
 
 ## 🔗 Connect With Me
 
