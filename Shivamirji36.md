@@ -20,6 +20,20 @@ I'm BE graduate in Computer Science and Passionate coder, Currently grinding on 
 
 ### Tools & Databases  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL] (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MySQL] (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 💡 Featured Projects
+
+### 🤖 [SIP Calculator](https://github.com/Shivamirji36/SIP-Calculator)
+A simple tool to calculate future value of your Systematic Investment Plan (SIP)
+
+**Tech Stack:** Java, OOPs 
+**Key Features:**
+- Core SIP Return Calculation
+- Power of Compound Interest Projection
+- Clear Input & Output Flow
+- Expandable Architecture for Future Enhancements
+
+**Use Cases:** Personal Financial Planning, Financial Awareness & Learning Tool
