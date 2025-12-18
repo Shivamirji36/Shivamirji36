@@ -44,13 +44,13 @@ A simple tool to calculate future value of your Systematic Investment Plan (SIP)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Shivamirji36&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivamirji36&layout=compact&theme=tokyonight)
-
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanandmirji/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivamirji36/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivmirji36@icloud.com)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1ioMLCQpOBO_wFjWMMRf8mvHUXtqLGq1R/view?usp=drive_link)
+
 
 ---
 
