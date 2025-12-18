@@ -54,4 +54,3 @@ A simple tool to calculate future value of your Systematic Investment Plan (SIP)
 
 ---
 
-⭐️ From [Shivanand Mirji](https://github.com/Shivamirji36/)
