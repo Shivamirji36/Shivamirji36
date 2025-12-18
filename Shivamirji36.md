@@ -20,7 +20,7 @@ I'm BE graduate in Computer Science and Passionate coder, Currently grinding on 
 
 ### Tools & Databases  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL] (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -37,3 +37,21 @@ A simple tool to calculate future value of your Systematic Investment Plan (SIP)
 - Expandable Architecture for Future Enhancements
 
 **Use Cases:** Personal Financial Planning, Financial Awareness & Learning Tool
+
+---
+
+## 📈 GitHub Stats
+
+![Shivanand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerobear8530032&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zerobear8530032&layout=compact&theme=radical)
+
+## 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanandmirji/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivamirji36/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivmirji36@icloud.com)
+
+---
+
+⭐️ From [Shivanand Mirji](https://github.com/Shivamirji36/)
