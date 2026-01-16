@@ -40,7 +40,7 @@ Built with Spring Boot, MongoDB, and Vanilla JavaScript, and integrated with a L
 - Clean REST API design
 - Pluggable LLM provider (extensible architecture)
 
-[Github link:](https://github.com/Shivamirji36/Full-Stack-Chatbot)
+[Github link](https://github.com/Shivamirji36/Full-Stack-Chatbot)
 
 **Use Cases:** Personal AI Assistant for Knowledge Queries, Project-Specific AI Chatbots, Secure Multi-User Chat Platform
 
