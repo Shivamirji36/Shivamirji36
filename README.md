@@ -32,7 +32,8 @@ Built with Spring Boot, MongoDB, and Vanilla JavaScript, and integrated with a L
 
 **Tech Stack:** Java, Spring Boot, Spring Security (JWT), Spring Data MongoDB, WebClient (for AI API calls), Hosted on Render, HTML5, CSS3, Vanilla JavaScript, MongoDB Atlas</br>
 
-**Key Features:**</br>
+**Key Features**
+</br>
 - JWT-based authentication (Register / Login)
 - AI-powered chat per project
 - Persistent chat history (MongoDB)
