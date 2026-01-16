@@ -26,30 +26,31 @@ I'm BE graduate in Computer Science and Passionate coder, Currently grinding on 
 
 ## 💡 Featured Projects
 
-### 🤖 [SIP Calculator](https://github.com/Shivamirji36/SIP-Calculator)
-A simple tool to calculate future value of your Systematic Investment Plan (SIP)
+### 🤖 [Full-Stack-Chatbot](https://full-stack-chatbot-dun.vercel.app/)
+A full-stack AI chatbot platform that allows users to create projects, chat with an AI model, and manage conversation history.
+Built with Spring Boot, MongoDB, and Vanilla JavaScript, and integrated with a Large Language Model (LLM) provider.
 
-**Tech Stack:** Java, OOPs 
-**Key Features:**
-- Core SIP Return Calculation
-- Power of Compound Interest Projection
-- Clear Input & Output Flow
-- Expandable Architecture for Future Enhancements
+**Tech Stack:** Java, Spring Boot, Spring Security (JWT), Spring Data MongoDB, WebClient (for AI API calls), Hosted on Render, HTML5, CSS3, Vanilla JavaScript, MongoDB Atlas</br>
 
-**Use Cases:** Personal Financial Planning, Financial Awareness & Learning Tool
+**Key Features:**</br>
+- JWT-based authentication (Register / Login)
+- AI-powered chat per project
+- Persistent chat history (MongoDB)
+- Clean REST API design
+- Pluggable LLM provider (extensible architecture)
+
+**Github link: ** https://github.com/Shivamirji36/Full-Stack-Chatbot
+
+**Use Cases:** Personal AI Assistant for Knowledge Queries, Project-Specific AI Chatbots, Secure Multi-User Chat Platform
 
 ---
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Shivamirji36&theme=tokyonight)
 
 ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanandmirji/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shivamirji36/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivmirji36@icloud.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1ioMLCQpOBO_wFjWMMRf8mvHUXtqLGq1R/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1BXPPHQlzrCVmOekM4QJ1dX1avwQbYwZE/view?usp=drivesdk)
 
 
 ---
